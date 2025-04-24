@@ -5,7 +5,7 @@ Olá, meu nome é Kauã, tenho 20 anos e sou de Arapongas/PR. Eu não sei nada d
 
 ---
 
-## 🧠 IAs que eu uso (sim, eu uso todas MESMO)
+## 🧠 IAs que eu uso para "Trabalhar"
 
 <a href="https://chat.openai.com/" target="_blank">
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
