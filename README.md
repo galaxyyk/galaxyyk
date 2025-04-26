@@ -35,7 +35,7 @@ Olá, meu nome é Kauã, tenho 20 anos e sou de Arapongas/PR. Eu não sei nada d
   <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=love&logoColor=white" alt="Lovable">
 </a>
 
-<a href="https://www.napkin.one/" target="_blank">
+<a href="https://www.napkin.ai/" target="_blank">
   <img src="https://img.shields.io/badge/Napkin.ai-2E2E2E?style=for-the-badge&logo=openai&logoColor=white" alt="Napkin AI">
 </a>
 
